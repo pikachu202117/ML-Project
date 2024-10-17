@@ -21,5 +21,5 @@
 </ol>
 <li>Then download the "<b>mainProjectScript.py</b>" script</li>
 <li>Run the script by executing the following command:</li>
-      streamlit run mainProjectScript.py
+&nbsp;&nbsp;&nbsp;&nbsp;<b>"streamlit run mainProjectScript.py"</b>
 
