@@ -22,7 +22,7 @@
 <li>Then download the "<b>mainProjectScript.py</b>" script</li>
 <li>Run the script by executing the following command:</li>
 &nbsp;&nbsp;&nbsp;&nbsp;<b>"streamlit run mainProjectScript.py"</b>
-
+<br/>
 Team members:<br/>
 <ol>
 <li>Pranav Sawant</li>
