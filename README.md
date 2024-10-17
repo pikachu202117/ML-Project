@@ -23,3 +23,9 @@
 <li>Run the script by executing the following command:</li>
 &nbsp;&nbsp;&nbsp;&nbsp;<b>"streamlit run mainProjectScript.py"</b>
 
+Credits:<ol>
+<li>Pranav Sawant</li>
+<li>Subhag Raut</li>
+<li>Rickysingh Tekcham</li>
+<li>Ashwin Pillai</li>
+</ol>
