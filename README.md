@@ -1,5 +1,6 @@
 # ML-Project
-To run the script, ensure that following python packages are installed.
+<ol>
+<li>To run the script, ensure that following python packages are installed:</li>
 <ol>
   <li>numpy
   </li>
@@ -18,3 +19,7 @@ To run the script, ensure that following python packages are installed.
   <li>plotly
   </li>
 </ol>
+<li>Then download the "<b>mainProjectScript.py</b>" script</li>
+<li>Run the script by executing the following command:</li>
+      streamlit run mainProjectScript.py
+
